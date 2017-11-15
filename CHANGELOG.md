@@ -2,6 +2,7 @@ x.y.z (TBD)
 ------------------
 
 ### Enhancements
+- Added a new `InMemoryConfiguration` class that allows you to create an in-memory Realm instance. ([#1638](https://github.com/realm/realm-dotnet/pull/1638))
 
 ### Bug fixes
 
